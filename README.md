@@ -1,4 +1,4 @@
 # resume
 resume
-lies here said resume of jason l. grimes
+here lies said resume of jason l. grimes
 updated 20180112
